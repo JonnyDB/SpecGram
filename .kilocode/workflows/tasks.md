@@ -113,7 +113,7 @@ mode. Include these details in the hint:
 > enhanced prompt button for that extra Kilo power!
 
 ```
-Implement tasks from `{FEATURE_DIR}/tasks.md` using `code` mode. Each task must
+/implement tasks from `{FEATURE_DIR}/tasks.md`. Each task must
 be tracked as a todo. Each todo must be executed using `new_task` and must
 maintain it's own todo list. Always validate each task completion with tests.
 Use TDD principles. Automatically switch to the `code-reviewer` mode to review complex code changes. Use the `test-engineer` mode to create and run tests.

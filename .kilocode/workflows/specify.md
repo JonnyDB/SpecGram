@@ -80,5 +80,5 @@ Hint the user that next step is to create a project plan using
 `/plan` command. Example command:
 
 ```
-/plan "Implement feature from {SPEC_FILE}" --details "{implementation_details}"
+/plan "Generate feature plan from {SPEC_FILE}" --details "{implementation_details}"
 ```
