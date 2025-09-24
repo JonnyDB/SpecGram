@@ -1,5 +1,7 @@
 # SpecGram
 
+NOTE: [Spec Kit](https://github.com/github/spec-kit) directly supports kilocode, just use that. 
+
 SDD Kit for Kilocode
 
 
